@@ -64,7 +64,7 @@
 
 ### 人机验证服务器
 
-> #### CodeSandbox 部署
+> #### CodeSandbox 部署“不推荐，建议直接使用官方”
 >
 > [![Edit BingAI](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/devbox/github/Harry-zklcdc/go-bingai-pass/tree/main?import=true)
 
